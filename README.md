@@ -1,4 +1,4 @@
-# calculadora :fax:
+# calculadora 
 
 <h2>Calculadora feita durante o curso da OneBitCode para exercitar meus conhecimentos</h2>
 
